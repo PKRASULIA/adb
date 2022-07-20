@@ -44,14 +44,31 @@
         Я согласен
     </button>
 </div>
+
+<script>
+    function getCookie(name) {
+  var matches = document.cookie.match(new RegExp(
+    "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+  ));
+  return matches ? decodeURIComponent(matches[1]) : undefined;
+}
+</script>
+
 <script>
     (function () {
         document.querySelector(".cookiealert").offsetHeight;
         document.querySelector(".acceptcookies").addEventListener("click", function (el) {
+            document.cookie = "acceptCookie=true";
             document.cookie = el.target.dataset.cookieString;
             document.querySelector(".cookiealert").classList.remove("show");
         }, false);
+
+        if(getCookie('acceptCookie') != undefined) {
+            document.querySelector('div[role=\'alert\']').remove();
+        }
     })();
+
+    
 </script>
 
 </body>

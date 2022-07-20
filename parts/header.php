@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="ru">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head runat="server">
-    <title>Рекламная сеть AdButton: покупка и монетизация трафика</title>
+    <title>Рекламная сеть SITENAME: покупка и монетизация трафика</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,15 +9,15 @@
     <meta name="msapplication-TileImage" content="images/favicons/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
-    <meta name="title" content="Рекламная сеть AdButton: покупка и монетизация трафика">
-    <meta name="description" content="Рекламная платформа AdButton для рекламодателей, вебмастеров и рекламных агентств: управление рекламными кампаниями, монетизация сайтов, управление рекламой на сайте">
+    <meta name="title" content="Рекламная сеть SITENAME: покупка и монетизация трафика">
+    <meta name="description" content="Рекламная платформа SITENAME для рекламодателей, вебмастеров и рекламных агентств: управление рекламными кампаниями, монетизация сайтов, управление рекламой на сайте">
     <meta name="keywords" content="рекламная сеть, рекламная платформа, рекламный сервис, система управления рекламой, баннерная сеть">
     <meta name="robots" content="index, follow">
     <meta name="revisit-after" content="1 day">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta property="og:title" content="Рекламная сеть AdButton: покупка и монетизация трафика">
+    <meta property="og:title" content="Рекламная сеть SITENAME: покупка и монетизация трафика">
     <meta property="og:url" content="/">
-    <meta property="og:description" content="Рекламная платформа AdButton для рекламодателей, вебмастеров и рекламных агентств: управление рекламными кампаниями, монетизация сайтов, управление рекламой на сайте">
+    <meta property="og:description" content="Рекламная платформа SITENAME для рекламодателей, вебмастеров и рекламных агентств: управление рекламными кампаниями, монетизация сайтов, управление рекламой на сайте">
     <meta property="og:locale" content="ru_RU">
     <meta property="og:locale:alternate" content="ru_BY">
     <meta property="og:locale:alternate" content="ru_MD">
@@ -27,20 +27,20 @@
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="260">
     <meta property="og:image:height" content="75">
-    <meta property="og:site_name" content="AdButton">
+    <meta property="og:site_name" content="SITENAME">
     <meta property="og:type" content="website">
 
-    <meta property="name" content="Рекламная сеть AdButton: покупка и монетизация трафика">
-    <meta property="description" content="Рекламная платформа AdButton для рекламодателей, вебмастеров и рекламных агентств: управление рекламными кампаниями, монетизация сайтов, управление рекламой на сайте">
+    <meta property="name" content="Рекламная сеть SITENAME: покупка и монетизация трафика">
+    <meta property="description" content="Рекламная платформа SITENAME для рекламодателей, вебмастеров и рекламных агентств: управление рекламными кампаниями, монетизация сайтов, управление рекламой на сайте">
     <meta property="og:image" content="./content/logo.png">
 
     <meta property="twitter:card" content="summary">
-    <meta property="twitter:site" content="@adbutton">
+    <meta property="twitter:site" content="@SITENAME">
     <meta property="twitter:url" content="/">
-    <meta property="twitter:creator" content="@adbutton">
-    <meta property="twitter:domain" content="adbutton.pro">
-    <meta property="twitter:title" content="Рекламная сеть AdButton: покупка и монетизация трафика">
-    <meta property="twitter:description" content="Рекламная платформа AdButton для рекламодателей, вебмастеров и рекламных агентств: управление рекламными кампаниями, монетизация сайтов, управление рекламой на сайте">
+    <meta property="twitter:creator" content="@SITENAME">
+    <meta property="twitter:domain" content="SITENAME.pro">
+    <meta property="twitter:title" content="Рекламная сеть SITENAME: покупка и монетизация трафика">
+    <meta property="twitter:description" content="Рекламная платформа SITENAME для рекламодателей, вебмастеров и рекламных агентств: управление рекламными кампаниями, монетизация сайтов, управление рекламой на сайте">
     <meta property="twitter:image:src" content="./content/logo.png">
 
 
@@ -294,7 +294,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-sm-6 text-sm-left text-center"><a class="btn btn-link btn-sm px-2 color-9" href="./ru/contact"><span class="fw-800 fs-0 color-9 pr-1"></span></a></div>
-                <div class="col-sm-6 text-sm-right text-center"><a class="btn btn-link btn-sm px-2 color-9" href="http://cp.adbutton.pro/account/signup" rel="nofollow"><span class="fw-800 fs-0 color-9 pr-1"></span>Регистрация</a><a class="btn btn-link btn-sm px-2 color-9" href="https://cp.adbutton.pro/account/signin?return_url=/default.aspx"><span class="fw-800 fs-0 color-9 pr-1"></span>Вход</a></div>
+                <div class="col-sm-6 text-sm-right text-center"><a class="btn btn-link btn-sm px-2 color-9" href="http://cp.SITENAME.pro/account/signup" rel="nofollow"><span class="fw-800 fs-0 color-9 pr-1"></span>Регистрация</a><a class="btn btn-link btn-sm px-2 color-9" href="https://cp.SITENAME.pro/account/signin?return_url=/default.aspx"><span class="fw-800 fs-0 color-9 pr-1"></span>Вход</a></div>
             </div>
         </div>
     </section>
@@ -311,12 +311,12 @@
                 </button>
                 <div class="navbar-toggler py-0">
                     <a class="navbar-brand overflow-hidden" href="/">
-                        <img src="./content/logo_small.png" alt="AdButton" title="AdButton" style="width: 180px">
+                        <img src="./content/logo_small.png" alt="SITENAME" title="SITENAME" style="width: 180px">
                     </a>
                 </div>
                 <div class="collapse navbar-collapse">
                     <a class="navbar-brand overflow-hidden" href="/">
-                        <img src="./content/logo.png" alt="AdButton" title="AdButton" style="width: 260px">
+                        <img src="./content/logo.png" alt="SITENAME" title="SITENAME" style="width: 260px">
                     </a>
                 </div>
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -330,7 +330,7 @@
                             <ul style="display: none;" class="dropdown"></ul>
                         </li>
                         <li>
-                            <a href="http://cp.adbutton.pro/">Панель управления</a>
+                            <a href="http://cp.SITENAME.pro/">Панель управления</a>
                         </li>
                     </ul>
                 </div>

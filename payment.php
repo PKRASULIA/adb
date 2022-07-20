@@ -2,8 +2,7 @@
 
 <div class="background-10">
     <div class="container font-1 fs--1 py-1 color-6"> <span class="fa fa-home mr-2 color-6 breadcrumb-home"></span>
-        <div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="d-inline"> <a
-                itemprop="item" href="/"> <span itemprop="name">Главная</span>
+        <div itemprop="itemListElement" class="d-inline"> <a href="/"> <span itemprop="name">Главная</span>
                 <meta itemprop="position" content="1">
             </a> </div>
     </div>
