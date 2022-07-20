@@ -45,6 +45,7 @@
 
 
 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="apple-touch-icon" sizes="57x57" href="images/favicons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="images/favicons/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-icon-72x72.png">
@@ -271,8 +272,8 @@
             font-family: 'FontAwesome';
             font-style: normal;
             font-weight: normal;
-            src: url('lib/font-awesome/fonts/fontawesome-webfont.eot');
-            src: url('lib/font-awesome/fonts/fontawesome-webfont.eot?#iefix') format('embedded-opentype'), url('lib/font-awesome/fonts/fontawesome-webfont.woff2') format('woff2'), url('lib/font-awesome/fonts/fontawesome-webfont.woff') format('woff'), url('lib/font-awesome/fonts/fontawesome-webfont.ttf') format('truetype'), url('lib/font-awesome/fonts/fontawesome-webfont.svg') format('svg');
+            src: url('/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0');
+            src: url('/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
         }
 
         @font-face {
@@ -320,11 +321,11 @@
                 </div>
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav ml-auto">
-                        <li class="has-dropdown">
+                        <li>
                             <a href="./advertiser.php">Рекламодатель</a>
                             <ul style="display: none;" class="dropdown dropdown-push-left"></ul>
                         </li>
-                        <li class="has-dropdown">
+                        <li>
                             <a href="./webmaster.php">Вебмастер</a>
                             <ul style="display: none;" class="dropdown"></ul>
                         </li>

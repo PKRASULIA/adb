@@ -35,6 +35,7 @@
     </div>
 </section>
 </main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js"></script>
 <script type="text/javascript" src="./assets/js/bundle_home.min.js"></script>
 
 <div class="alert text-center cookiealert show" role="alert">

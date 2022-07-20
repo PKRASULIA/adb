@@ -16,37 +16,34 @@
                     <picture>
                         <source type="image/webp" srcset="./assets/images/aw9ji3mhal80tcpfro2mwz3itv0cmsq0.jpg?w=300 300w,./assets/images/aw9ji3mhal80tcpfro2mwz3itv0cmsq0.jpg?w=350 350w,./assets/images/aw9ji3mhal80tcpfro2mwz3itv0cmsq0.jpg?w=400 400w,./assets/images/aw9ji3mhal80tcpfro2mwz3itv0cmsq0.jpg?w=500 500w,./assets/images/aw9ji3mhal80tcpfro2mwz3itv0cmsq0.jpg?w=600 600w,./assets/images/aw9ji3mhal80tcpfro2mwz3itv0cmsq0.jpg?w=700 700w">
                         <source type="image/jpeg" srcset="./assets/images/header-03.jpg?w=300 300w,./assets/images/header-03.jpg?w=350 350w,./assets/images/header-03.jpg?w=400 400w,./assets/images/header-03.jpg?w=500 500w,./assets/images/header-03.jpg?w=600 600w,./assets/images/header-03.jpg?w=700 700w">
-                        <img src="./assets/images/header-03.jpg" title="Инструменты для рекламодетелей" alt="Инструменты для рекламодетелей">
+                        <img style="max-height: 200px; width: 345px;" src="./assets/images/header-03.jpg" title="Инструменты для рекламодетелей" alt="Инструменты для рекламодетелей">
                     </picture>
 
                     <h5 class="mb-0 mt-4">Рекламодателям</h5>
                     <p class="lead d-inline-block color-4">Качественный трафик</p>
                     <p class="color-6 d-inline-block fs--1">Удобные инструменты для управления маркетинговыми компаниями, покупка и размещение RTB и нативной рекламы напрямую без посредников.</p>
-                    <a class="btn btn-outline-primary w-100" href="./ru/advertiser">Инструменты для рекламодетелей</a>
                 </div>
                 <div class="color-1 col-lg-4 text-center text-lg-left mb-5 mb-lg-0">
                     <picture style="margin-bottom: 24px;">
                         <source type="image/webp" srcset="./assets/images/1508411165661.jpg?w=300 300w,./assets/images/1508411165661.jpg?w=350 350w,./assets/images/1508411165661.jpg?w=400 400w,./assets/images/1508411165661.jpg?w=500 500w,./assets/images/1508411165661.jpg?w=600 600w,./assets/images/1508411165661.jpg?w=700 700w">
                         <source type="image/jpeg" srcset="./assets/images/generic-05.jpg?w=300 300w,./assets/images/generic-05.jpg?w=350 350w,./assets/images/generic-05.jpg?w=400 400w,./assets/images/generic-05.jpg?w=500 500w,./assets/images/generic-05.jpg?w=600 600w,./assets/images/generic-05.jpg?w=700 700w">
-                        <img style="margin-bottom: 37px;" src="./assets/images/generic-05.jpg" title="Инструменты для вебмастеров" alt="Инструменты для вебмастеров">
+                        <img src="./assets/images/generic-05.jpg" title="Инструменты для вебмастеров" alt="Инструменты для вебмастеров">
                     </picture>
 
                     <h5 class="mb-0 mt-4">Вебмастерам</h5>
                     <p class="lead d-inline-block color-4">Монетизация сайтов</p>
                     <p class="color-6 d-inline-block fs--1">Универсальный сервер для размещения и монетизации сайтов, продажи разнообразных видов трафика и рекламы.</p>
-                    <a class="btn btn-outline-primary w-100" href="./ru/webmaster">Инструменты для вебмастеров</a>
                 </div>
                 <div class="color-1 col-lg-4 text-center text-lg-left mb-5 mb-lg-0">
                     <picture>
                         <source type="image/webp" srcset="./assets/images/delovye-peregovory-vidy-pravila-i-primery-provedeniya-15.jpg?w=300 300w,./assets/images/delovye-peregovory-vidy-pravila-i-primery-provedeniya-15.jpg?w=350 350w,./assets/images/delovye-peregovory-vidy-pravila-i-primery-provedeniya-15.jpg?w=400 400w,./assets/images/delovye-peregovory-vidy-pravila-i-primery-provedeniya-15.jpg?w=500 500w,./assets/images/delovye-peregovory-vidy-pravila-i-primery-provedeniya-15.jpg?w=600 600w,./assets/images/delovye-peregovory-vidy-pravila-i-primery-provedeniya-15.jpg?w=700 700w">
                         <source type="image/jpeg" srcset="./assets/images/header-07.jpg?w=300 300w,./assets/images/header-07.jpg?w=350 350w,./assets/images/header-07.jpg?w=400 400w,./assets/images/header-07.jpg?w=500 500w,./assets/images/header-07.jpg?w=600 600w,./assets/images/header-07.jpg?w=700 700w">
-                        <img style="margin-bottom: 39px;" src="./assets/images/header-07.jpg" title="Инструменты для рекламных агенств" alt="Инструменты для рекламных агенств">
+                        <img src="./assets/images/header-07.jpg" title="Инструменты для рекламных агенств" alt="Инструменты для рекламных агенств">
                     </picture>
 
                     <h5 class="mb-0 mt-4">Рекламным агентствам</h5>
                     <p class="lead d-inline-block color-4">Максимальный охват</p>
                     <p class="color-6 d-inline-block fs--1">Сегментирование целевых аудиторий, маркетинговый аудит, качественный трафик со всего мира, таргетированная реклама.</p>
-                    <a class="btn btn-outline-primary w-100" href="./ru/advertiser">Инструменты для рекламных агенств</a>
                 </div>
             </div>
         </div>
