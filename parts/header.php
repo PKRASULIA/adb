@@ -292,7 +292,7 @@
     <section class="py-0 background-1 hidden-sm-down">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-sm-6 text-sm-left text-center"><a class="btn btn-link btn-sm px-2 color-9" href="./ru/contact"><span class="fw-800 fs-0 color-9 pr-1"></span>Помощь</a></div>
+                <div class="col-sm-6 text-sm-left text-center"><a class="btn btn-link btn-sm px-2 color-9" href="./ru/contact"><span class="fw-800 fs-0 color-9 pr-1"></span></a></div>
                 <div class="col-sm-6 text-sm-right text-center"><a class="btn btn-link btn-sm px-2 color-9" href="http://cp.adbutton.pro/account/signup" rel="nofollow"><span class="fw-800 fs-0 color-9 pr-1"></span>Регистрация</a><a class="btn btn-link btn-sm px-2 color-9" href="https://cp.adbutton.pro/account/signin?return_url=/default.aspx"><span class="fw-800 fs-0 color-9 pr-1"></span>Вход</a></div>
             </div>
         </div>
@@ -321,87 +321,12 @@
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav ml-auto">
                         <li class="has-dropdown">
-                            <a href="JavaScript:void(0)">Рекламодатель</a>
-                            <ul class="dropdown dropdown-push-left">
-                                <li>
-                                    <a href="./advertiser.php">Введение</a>
-                                </li>
-                                <li class="has-dropdown">
-                                    <a href="JavaScript:void(0)">Рекламный менеджер</a>
-                                    <ul class="dropdown dropdown-push-left">
-                                        <li>
-                                            <a href="./manager.php">Введение</a>
-                                        </li>
-                                        <li>
-                                            <a href="./direct-purchase.php">Прямая покупка рекламы</a>
-                                        </li>
-                                        <li>
-                                            <a href="./rtb-purchase.php">Покупка РТБ рекламы</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="has-dropdown">
-                                    <a href="JavaScript:void(0)">Платежные системы</a>
-                                    <ul class="dropdown dropdown-push-left">
-                                        <li>
-                                            <a href="./payment-adv.php">Введение</a>
-                                        </li>
-
-
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="./advertising-models.php">Рекламные модели</a>
-                                </li>
-                            </ul>
+                            <a href="./advertiser.php">Рекламодатель</a>
+                            <ul style="display: none;" class="dropdown dropdown-push-left"></ul>
                         </li>
                         <li class="has-dropdown">
-                            <a href="JavaScript:void(0)">Вебмастер</a>
-                            <ul class="dropdown">
-                                <li>
-                                    <a href="./webmaster.php">Введение</a>
-                                </li>
-                                <li class="has-dropdown">
-                                    <a href="JavaScript:void(0)">Рекламный сервер</a>
-                                    <ul class="dropdown dropdown-push-left">
-                                        <li>
-                                            <a href="./server.php">Введение</a>
-                                        </li>
-                                        <li>
-                                            <a href="./ad-adaptive.php">Адаптивные баннеры</a>
-                                        </li>
-                                        <li>
-                                            <a href="./ad-rotator.php">Ротатор объявлений</a>
-                                        </li>
-                                        <li>
-                                            <a href="./ad-format.php">Форматы объявлений</a>
-                                        </li>
-                                        <li>
-                                            <a href="./ad-targeting.php">Таргетинг объявлений</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="has-dropdown">
-                                    <a href="JavaScript:void(0)">Монетизация сайта</a>
-                                    <ul class="dropdown dropdown-push-left">
-                                        <li>
-                                            <a href="./ru/webmaster/profit.php">Введение</a>
-                                        </li>
-                                        <li>
-                                            <a href="./ru/webmaster/profit/advertising-rtb.php">RTB реклама</a>
-                                        </li>
-                                        <li>
-                                            <a href="./ru/webmaster/profit/advertising-cpa.php">CPA реклама</a>
-                                        </li>
-                                        <li>
-                                            <a href="./ru/webmaster/profit/advertising-direct.php">Прямая реклама</a>
-                                        </li>
-                                        <li>
-                                            <a href="./ru/webmaster/profit/advertising-native.php">Естественная реклама</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
+                            <a href="./webmaster.php">Вебмастер</a>
+                            <ul style="display: none;" class="dropdown"></ul>
                         </li>
                         <li>
                             <a href="http://cp.adbutton.pro/">Панель управления</a>
