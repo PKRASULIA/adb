@@ -330,7 +330,7 @@
                             <ul style="display: none;" class="dropdown"></ul>
                         </li>
                         <li>
-                            <a href="http://cp.SITENAME.pro/">Панель управления</a>
+                            <a href="http://cp.adbutton.pro/">Панель управления</a>
                         </li>
                     </ul>
                 </div>
