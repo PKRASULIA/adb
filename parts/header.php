@@ -322,11 +322,11 @@
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav ml-auto">
                         <li>
-                            <a href="./advertiser.php">Рекламодатель</a>
+                            <a href="./advertiser">Рекламодатель</a>
                             <ul style="display: none;" class="dropdown dropdown-push-left"></ul>
                         </li>
                         <li>
-                            <a href="./webmaster.php">Вебмастер</a>
+                            <a href="./webmaster">Вебмастер</a>
                             <ul style="display: none;" class="dropdown"></ul>
                         </li>
                         <li>

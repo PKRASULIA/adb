@@ -1,4 +1,4 @@
-<?php include_once ('./parts/header.php'); ?>
+<?php include_once ('./parts/header'); ?>
 <div class="background-10">
     <div class="container font-1 fs--1 py-1 color-6"> <span class="fa fa-home mr-2 color-6 breadcrumb-home"></span>
         <div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="d-inline"> <a
@@ -12,7 +12,7 @@
     <div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="d-inline">
         <h1 itemprop="name" class="mb-3 fw-400 pt-0 color-1">Продукты для вебмастеров</h1>
         <div itemprop="item" itemscope="" itemtype="http://schema.org/Thing">
-            <link itemprop="url" href="/webmaster.php">
+            <link itemprop="url" href="/webmaster">
         </div>
         <meta itemprop="position" content="2">
     </div>

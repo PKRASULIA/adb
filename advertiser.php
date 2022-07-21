@@ -13,7 +13,7 @@
     <div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="d-inline">
         <h1 itemprop="name" class="mb-3 fw-400 pt-0 color-1">Онлайн-маркетинг для рекламодетелей</h1>
         <div itemprop="item" itemscope="" itemtype="http://schema.org/Thing">
-            <link itemprop="url" href="/webmaster.php">
+            <link itemprop="url" href="/webmaster">
         </div>
         <meta itemprop="position" content="2">
     </div>

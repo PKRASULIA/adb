@@ -15,20 +15,20 @@
             <div class="col-lg-3 col-md-4 pb-5 pb-md-0 fs--1">
                 <h6 class="color-9 text-uppercase">Компания</h6>
                 <hr class="mt-3 short left color-8" align="left">
-                <span class="color-8 d-block p-1 pl-0" href="./ru/contact">companyName</span>
-                <span class="color-8 d-block p-1 pl-0" href="./ru/contact">ИНН: inn</span>
-                <span class="color-8 d-block p-1 pl-0" href="./ru/contact">КПП: kpp</span>
-                <span class="color-8 d-block p-1 pl-0" href="./ru/contact">ОГРН: ogrn</span>
-                <span class="color-8 d-block p-1 pl-0" href="./ru/contact">Адрес: address</span>
-                <span class="color-8 d-block p-1 pl-0" href="./ru/contact">Телефон: phone</span>
-                <span class="color-8 d-block p-1 pl-0" href="./ru/contact">Email: support@adbutton.pro</span>
+                <span class="color-8 d-block p-1 pl-0">companyName</span>
+                <span class="color-8 d-block p-1 pl-0">ИНН: inn</span>
+                <span class="color-8 d-block p-1 pl-0">КПП: kpp</span>
+                <span class="color-8 d-block p-1 pl-0">ОГРН: ogrn</span>
+                <span class="color-8 d-block p-1 pl-0">Адрес: address</span>
+                <span class="color-8 d-block p-1 pl-0">Телефон: phone</span>
+                <span class="color-8 d-block p-1 pl-0">Email: support@adbutton.pro</span>
             </div>
             <div class="col-lg-3 col-md-4 pb-5 pb-md-0 fs--1">
                 <h6 class="color-9 text-uppercase">Информация</h6>
                 <hr class="mt-3 short left color-8" align="left">
-                <a class="color-8 d-block p-1 pl-0" href="./payment.php">Оплата</a>
-                <a class="color-8 d-block p-1 pl-0" href="./terms-and-conditions.php">Оферта</a>
-                <a class="color-8 d-block p-1 pl-0" href="./policy.php">Политика конфиденциальности</a>
+                <a class="color-8 d-block p-1 pl-0" href="./payment">Оплата</a>
+                <a class="color-8 d-block p-1 pl-0" href="./terms-and-conditions">Оферта</a>
+                <a class="color-8 d-block p-1 pl-0" href="./policy">Политика конфиденциальности</a>
             </div>
 
         </div>
@@ -39,7 +39,7 @@
 <script type="text/javascript" src="./assets/js/bundle_home.min.js"></script>
 
 <div class="alert text-center cookiealert show" role="alert">
-    <b>Мы используем файлы cookie.</b> 🍪 Продолжая использовать наш сайт, вы соглашаетесь с нашей <a href="./ru/policy" target="_blank">Политикой конфиденциальности</a>
+    <b>Мы используем файлы cookie.</b> 🍪 Продолжая использовать наш сайт, вы соглашаетесь с нашей <a href="/policy" target="_blank">Политикой конфиденциальности</a>
     <button type="button" class="btn btn-primary btn-sm acceptcookies c-pointer" aria-label="Close" data-cookie-string=".AspNet.Consent=yes; expires=Wed, 19 Jul 2023 17:21:00 GMT; path=/; secure; samesite=none">
         Я согласен
     </button>
