@@ -294,7 +294,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-sm-6 text-sm-left text-center"><a class="btn btn-link btn-sm px-2 color-9" href="./ru/contact"><span class="fw-800 fs-0 color-9 pr-1"></span></a></div>
-                <div class="col-sm-6 text-sm-right text-center"><a class="btn btn-link btn-sm px-2 color-9" href="http://cp.SITENAME.pro/account/signup" rel="nofollow"><span class="fw-800 fs-0 color-9 pr-1"></span>Регистрация</a><a class="btn btn-link btn-sm px-2 color-9" href="https://cp.SITENAME.pro/account/signin?return_url=/default.aspx"><span class="fw-800 fs-0 color-9 pr-1"></span>Вход</a></div>
+                <div class="col-sm-6 text-sm-right text-center"><a class="btn btn-link btn-sm px-2 color-9" href="http://cp.adbutton.pro/account/signup" rel="nofollow"><span class="fw-800 fs-0 color-9 pr-1"></span>Регистрация</a><a class="btn btn-link btn-sm px-2 color-9" href="https://cp.adbutton.pro/account/signin?return_url=/default.aspx"><span class="fw-800 fs-0 color-9 pr-1"></span>Вход</a></div>
             </div>
         </div>
     </section>
